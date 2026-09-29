@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Caches and outputs produced by the scripts
+cache/
+footprints/
+*.npy
+*.npz
+intermediate_results/
+TABLES_4_5_6.tex
+
+# Point clouds are hosted on Hugging Face / IEEE DataPort, not in git
+*.ply
+*.zip
+
+# OS clutter
+.DS_Store
+Thumbs.db

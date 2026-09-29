@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "LiDAR-based 3D Change Detection at City Scale"
+type: software
+repository-code: "https://github.com/IbrahimUWA/LiDAR-3D-Change-Detection-City-Scale"
+license: MIT
+authors:
+  - family-names: Albaqami
+    given-names: Hezam
+  - family-names: Wang
+    given-names: Haitian
+  - family-names: Wang
+    given-names: Xinyu
+  - family-names: Ibrahim
+    given-names: Muhammad
+  - family-names: Malakan
+    given-names: Zainy M.
+  - family-names: Algamdi
+    given-names: Abdullah M.
+  - family-names: Alghamdi
+    given-names: Mohammed H.
+  - family-names: Mian
+    given-names: Ajmal
+preferred-citation:
+  type: article
+  title: "LiDAR-based 3D Change Detection at City Scale"
+  journal: "Scientific Reports"
+  year: 2026
+  notes: "Under review"
+  authors:
+    - family-names: Albaqami
+      given-names: Hezam
+    - family-names: Wang
+      given-names: Haitian
+    - family-names: Wang
+      given-names: Xinyu
+    - family-names: Ibrahim
+      given-names: Muhammad
+    - family-names: Malakan
+      given-names: Zainy M.
+    - family-names: Algamdi
+      given-names: Abdullah M.
+    - family-names: Alghamdi
+      given-names: Mohammed H.
+    - family-names: Mian
+      given-names: Ajmal
+references:
+  - type: data
+    title: "Subiaco LiDAR Change Detection Pairs (2023 to 2025)"
+    url: "https://huggingface.co/datasets/ibrahim80876/Change-Detection-LiDAR-Dataset"
+    license: CC-BY-4.0
+  - type: data
+    title: "2023 Subiaco WA 3D HD LiDAR Point Cloud Maps Dataset"
+    url: "https://ieee-dataport.org/documents/2023-subiaco-wa-3d-hd-lidar-point-cloud-maps-dataset"
+  - type: data
+    title: "2025 Subiaco WA 3D HD LiDAR GNSS Point Cloud Maps Dataset"
+    url: "https://ieee-dataport.org/documents/2025-subiaco-wa-3d-hd-lidar-gnss-point-cloud-maps-dataset"

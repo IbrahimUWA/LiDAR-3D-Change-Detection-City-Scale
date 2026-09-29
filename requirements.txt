@@ -1,0 +1,16 @@
+# Core numerics (all scripts)
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.2
+matplotlib>=3.7
+pandas>=2.0
+
+# 3D I/O and visualisation (adaptive_point_cloud_segmentation.py,
+# city_point_cloud_segmentation.py, point_cloud_diff.py)
+open3d>=0.17
+
+# Streaming ASCII-PLY readers in CD Data-Preparation-scripts/
+polars>=0.20
+
+# Optional: download the processed pairs from Hugging Face
+huggingface_hub>=0.23
